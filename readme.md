@@ -2,10 +2,10 @@
 
 *** Sistema de Controle de Tarefas ***
 
-1.  SOBRE A APLICAÇÃO DESENVOLVIDA
+1. SOBRE A APLICAÇÃO DESENVOLVIDA
 
 Foi utilizada a linguagem de programação PHP, juntamente com os frameworks de front-end: Bootstrap v3.3.7(última versão disponível) e back-end Laravel (última versão disponível), aliados ao uso da linguagem de marcação de folhas de estilos CSS 3, HTML5, além do uso de trechos em JQuery. O layout da aplicação levou em consideração o conceito de mobile-first, já primariamente dotado pelo framework bootstrap, assim como a diagramação das páginas através do sistema de grids adotado pelo mesmo. Tornando assim o sistema responsivo e adaptado aos mais variados tamanhos de resolução. Através do Laravel foi utilizado o padrão de arquitetura MVC (Model-View-Controler) para a entidade tarefas.
-do CodeIgniter foi utilizado o padrão de arquitetura MVC (Model-View-Controler) para a entidade tarefas. O
+ 
 
 1.1 Sobre as funcionalidades
 
